@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "Optimius — Sites profissionais para lojas locais na Península Ibérica",
+    "description": "Sites profissionais gratuitos para negócios locais em Portugal e Espanha. Criados com IA, otimizados para o Google, prontos em minutos."
+  },
+  "nav": {
+    "how": "Como funciona",
+    "features": "Funcionalidades",
+    "results": "Resultados",
+    "signIn": "Entrar",
+    "signUp": "Registar"
+  },
+  "hero": {
+    "eyebrow": "Criado com inteligência artificial",
+    "titleLead": "O",
+    "titleEm": "seu negócio",
+    "titleTail": "merece estar online",
+    "subtitle": "Sites profissionais gratuitos para lojas locais em Portugal e Espanha. Criados com inteligência artificial, otimizados para o Google, prontos em minutos.",
+    "cta": "Comece gratuitamente",
+    "secondary": "Saber mais"
+  },
+  "process": {
+    "label": "Processo",
+    "title": "Como funciona",
+    "subtitle": "Três passos simples para ter o seu site profissional online.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Descobrir",
+        "body": "Identificamos o seu negócio e recolhemos toda a informação pública — morada, horários, avaliações e fotografias."
+      },
+      {
+        "n": "02",
+        "title": "Gerar",
+        "body": "A nossa IA cria um site profissional em português europeu ou espanhol, com SEO otimizado e design adaptado ao seu setor."
+      },
+      {
+        "n": "03",
+        "title": "Lançar",
+        "body": "Reivindique o seu site, personalize-o e publique-o. Grátis para sempre, com opções premium disponíveis."
+      }
+    ]
+  },
+  "demo": {
+    "label": "Demo",
+    "title": "Veja como o seu site nasce",
+    "subtitle": "Do nome do negócio até online — em três passos sem complicações.",
+    "step1Title": "Diga-nos o nome do seu negócio",
+    "step1Body": "Procuramos o seu negócio no Google Maps, recolhemos as informações públicas e preparamos tudo automaticamente.",
+    "businessLabel": "Nome do negócio",
+    "businessExample": "Café Onda",
+    "found": "Encontrado · Av. Marginal, Cascais · 4.8 ★",
+    "step2Title": "A nossa IA cria o seu site",
+    "step2Body": "Texto local correto (PT-PT ou ES), imagens otimizadas, design adaptado ao seu setor.",
+    "step3Title": "Online em minutos, otimizado para Google",
+    "step3Body": "Domínio próprio, SSL, SEO local, reservas online, integração WhatsApp. Lighthouse 98+ desde o primeiro segundo.",
+    "online": "Site online"
+  },
+  "features": {
+    "title": "Tudo o que o seu negócio precisa",
+    "subtitle": "Funcionalidades profissionais incluídas gratuitamente.",
+    "items": [
+      {
+        "title": "100% Gratuito",
+        "body": "O seu site básico é gratuito para sempre. Sem custos escondidos."
+      },
+      {
+        "title": "SEO otimizado",
+        "body": "Otimizado para o Google desde o primeiro dia, com meta tags e schema.org."
+      },
+      {
+        "title": "Design profissional",
+        "body": "Templates modernos adaptados ao seu setor de atividade."
+      },
+      {
+        "title": "Multi-idioma automático",
+        "body": "O seu site é gerado em PT-PT, ES e EN — alcance clientes locais em Portugal, Espanha e além."
+      },
+      {
+        "title": "Ultra rápido",
+        "body": "Performance de 95–100 no Lighthouse. Carrega em menos de 1 segundo."
+      },
+      {
+        "title": "Inteligência artificial",
+        "body": "A IA melhora o seu site continuamente com sugestões de conteúdo e SEO."
+      }
+    ]
+  },
+  "results": {
+    "title": "Números que falam por si",
+    "stats": [
+      { "value": "Iberia", "label": "Portugal + Espanha" },
+      { "value": "98+", "label": "Lighthouse Score" },
+      { "value": "0 €", "label": "Para começar" },
+      { "value": "<60s", "label": "Tempo de geração" }
+    ]
+  },
+  "cta": {
+    "titleLead": "Pronto para levar o seu negócio",
+    "titleEm": "online",
+    "subtitle": "Junte-se a lojas locais em Portugal e Espanha que já têm o seu site profissional gratuito.",
+    "button": "Comece gratuitamente",
+    "note": "Sem cartão de crédito. Sem compromisso. Grátis para sempre."
+  },
+  "footer": {
+    "tagline": "Sites profissionais gratuitos para lojas locais na Península Ibérica, criados com inteligência artificial.",
+    "product": "Produto",
+    "legal": "Legal",
+    "complaints": "Livro de Reclamações",
+    "privacy": "Política de Privacidade (RGPD)",
+    "terms": "Termos de Serviço",
+    "contact": "Contacto",
+    "rights": "Optimius. Todos os direitos reservados.",
+    "aiNote": "Conteúdo dos sites gerado com assistência de inteligência artificial. Cumprimos o Regulamento Europeu de IA (EU AI Act)."
+  }
+}

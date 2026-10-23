@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "title": "Optimius — Professional sites for local shops across Iberia",
+    "description": "Free professional websites for local businesses in Portugal and Spain. Built with AI, optimized for Google, ready in minutes."
+  },
+  "nav": {
+    "how": "How it works",
+    "features": "Features",
+    "results": "Results",
+    "signIn": "Sign in",
+    "signUp": "Sign up"
+  },
+  "hero": {
+    "eyebrow": "Created with artificial intelligence",
+    "titleLead": "Your",
+    "titleEm": "business",
+    "titleTail": "deserves to be online",
+    "subtitle": "Free professional websites for local shops in Portugal and Spain. Created with artificial intelligence, optimized for Google, ready in minutes.",
+    "cta": "Get started for free",
+    "secondary": "Learn more"
+  },
+  "process": {
+    "label": "Process",
+    "title": "How it works",
+    "subtitle": "Three simple steps to get your professional website online.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Discover",
+        "body": "We identify your business and collect all public information — address, opening hours, ratings and photos."
+      },
+      {
+        "n": "02",
+        "title": "Generate",
+        "body": "Our AI creates a professional website in European Portuguese or Spanish, with optimized SEO and a design adapted to your sector."
+      },
+      {
+        "n": "03",
+        "title": "Launch",
+        "body": "Claim your site, customize it and publish it. Free forever, with premium options available."
+      }
+    ]
+  },
+  "demo": {
+    "label": "Demo",
+    "title": "Watch your site come to life",
+    "subtitle": "From business name to online — in three simple steps.",
+    "step1Title": "Tell us the name of your business",
+    "step1Body": "We find your business on Google Maps, collect the public info and prepare everything automatically.",
+    "businessLabel": "Business name",
+    "businessExample": "Café Onda",
+    "found": "Found · Av. Marginal, Cascais · 4.8 ★",
+    "step2Title": "Our AI builds your site",
+    "step2Body": "Correct local copy (PT-PT or ES), optimized images, design tailored to your sector.",
+    "step3Title": "Online in minutes, optimized for Google",
+    "step3Body": "Own domain, SSL, local SEO, online bookings, WhatsApp integration. Lighthouse 98+ from the first second.",
+    "online": "Site online"
+  },
+  "features": {
+    "title": "Everything your business needs",
+    "subtitle": "Professional features included free of charge.",
+    "items": [
+      {
+        "title": "100% Free",
+        "body": "Your basic website is free forever. No hidden costs."
+      },
+      {
+        "title": "Optimized SEO",
+        "body": "Optimized for Google from day one, with meta tags and schema.org."
+      },
+      {
+        "title": "Professional design",
+        "body": "Modern templates adapted to your industry."
+      },
+      {
+        "title": "Auto multi-language",
+        "body": "Your site is generated in PT-PT, ES and EN — reach customers across Portugal, Spain and beyond."
+      },
+      {
+        "title": "Ultra fast",
+        "body": "95–100 Lighthouse performance. Loads in under one second."
+      },
+      {
+        "title": "Artificial intelligence",
+        "body": "AI continuously improves your site with content and SEO suggestions."
+      }
+    ]
+  },
+  "results": {
+    "title": "Figures that speak for themselves",
+    "stats": [
+      { "value": "Iberia", "label": "Portugal + Spain" },
+      { "value": "98+", "label": "Lighthouse Score" },
+      { "value": "€0", "label": "Getting started" },
+      { "value": "<60s", "label": "Generation time" }
+    ]
+  },
+  "cta": {
+    "titleLead": "Ready to take your business",
+    "titleEm": "online",
+    "subtitle": "Join local shops across Portugal and Spain that already have their free professional website.",
+    "button": "Get started for free",
+    "note": "No credit card. No strings attached. Free forever."
+  },
+  "footer": {
+    "tagline": "Free professional websites for local shops across Iberia, created with artificial intelligence.",
+    "product": "Product",
+    "legal": "Legal",
+    "complaints": "Complaints book",
+    "privacy": "Privacy Policy (GDPR)",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "rights": "Optimius. All rights reserved.",
+    "aiNote": "Website content generated with the assistance of artificial intelligence. We comply with the European AI Regulation (EU AI Act)."
+  }
+}
